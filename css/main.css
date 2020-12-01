@@ -24,11 +24,19 @@ h1 {
    /* Default font, size, and margins */
 }
 
-h2 {
+h2 {background-color:  #ff6b00;
+  font-family: 'Poppins-black';
+  color:white;
+  font-size: 38px;
+  text-align: center;
+  margin: 8px 0;
   /* Default font, size, and margins */
 }
 
-h3 {
+h3 {font-family: poppins-black;
+  font-size: 40px;
+  text-align: center;
+  color: black;
   /* Default font, size, and margins */
 }
 
